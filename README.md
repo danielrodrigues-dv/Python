@@ -1,4 +1,4 @@
-<h1 align="center">Todos os projetos em python</h1>
+<h1 align="center">Todos os projetos em Python</h1>
 <h5 aling="center">---- Nesta página unificada, será registrada toda a evolução do meu estudo com a linguagem de programação Python.</h2>
 <br>
 

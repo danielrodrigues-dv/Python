@@ -21,7 +21,7 @@ Os laboratórios de estudo mencionados a seguir são ambientes controlados que o
 
 
 <details><summary>Automação</summary>
-<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/Information-Security/tree/main/laboratories/SQL%20INJECTION/README.md" target="_blank">Pyautogui</a></li></ul></p>
+<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/Python/blob/main/All%20projects/Pyautogui/README.md" target="_blank">Pyautogui</a></li></ul></p>
 <p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">Selenium</a></li></ul></p>
 <p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">Beautifulsoup</a></li></ul></p>
 <p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">Scraping</a></li></ul></p>

@@ -1,39 +1,103 @@
-<h1 align="center">Todos os projetos em python</h1>
-<h5 aling="center">---- Nesta página unificada, será registrada toda a evolução do meu estudo com a linguagem de programação Python.</h2>
+<h1 align="center">ALON MUSK</h1>			
 <br>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/moments-angular?style=flat-square&&color=%2304D361" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielrodrigues-dv/moments-angular?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/danielrodrigues-dv/moments-angular?style=flat-square" />
+	<a href="https://github.com/danielrodrigues-dv/moments-angular/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/danielrodrigues-dv/moments-angular?style=flat-square&" />
+	</a>
+  <a href="https://github.com/danielrodrigues-dv/moments-angular/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/angular-moments?style=flat-square&">
+  </a>
+  <a href="https://github.com/danielrodrigues-dv">
+    <img alt="Feito por danielrodrigues-dv" src="https://img.shields.io/badge/feito%20por-Daniel%20Rodrigues-%237519C1?style=flat-square&">
+  </a>
+</p>
 
+<h4 align="center">🚧 🚀 Concluído 🚀 🚧</h4>
 	
 
-Conteúdo
+Tabela de conteúdos
 =================
 <!--ts-->
-   * [Laboratories](#-laboratories)
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Funcionalidades](#%EF%B8%8F-funcionalidades)
+   * [Layout](#-layout)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+     * [Pré-requisitos](#pré-requisitos)
+     * [Rodando a aplicação](#-Rodando-a-aplicação-Web)
    * [Tecnologias](#-tecnologias)
    * [Autor](#-autor)
    * [Licença](#-licença)
 <!--te-->
 
 
+## 💻 Sobre o projeto
 
-## Laboratórios
-
-Os laboratórios de estudo mencionados a seguir são ambientes controlados que oferecem uma plataforma para aplicar e praticar os diversos conceitos relacionados à segurança da informação. Nesses espaços controlados, é possível vivenciar de forma prática as nuances desse campo, garantindo um entendimento aprofundado e efetivo das medidas de segurança.
-
-
-<details><summary>Automação</summary>
-<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/Information-Security/tree/main/laboratories/SQL%20INJECTION/README.md" target="_blank">Pyautogui</a></li></ul></p>
-<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">Selenium</a></li></ul></p>
-<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">Beautifulsoup</a></li></ul></p>
-<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">Scraping</a></li></ul></p>
-</details>
-
-<details><summary>Aplicação Web</summary>
-<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">Flask</a></li></ul></p>
-<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">Django</a></li></ul></p>
-</details>
+💪 É uma plataforma web para lançamentos de produtos.
 
 ---
 
+## ⚙️ Funcionalidades
+
+- :white_check_mark: Exibir as informações contidas na aplicação. 
+
+ 
+---
+
+## 🎨 Layout
+
+O layout da aplicação está disponível no Netlify:
+
+<a href="https://danielrodrigues-dv-calculadora-react-dv.netlify.app/">
+  <img alt="Made by danielrodrigues-dv" src="https://img.shields.io/badge/Acessar%20Layout%20-aqui-%2304D361?style=flat-square">
+</a>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="danielrodrigues-dv" title="#moments-angular" src="https://github.com/danielrodrigues-dv/Python/blob/main/All%20projects/img/banner-pyautogui.png" />
+</p>
+
+---
+
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+
+
+#### 🧭 Rodando a aplicação Web
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/danielrodrigues-dv/alon-musk.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd application
+
+# Instale as dependências
+$ npm install ou yarn install
+
+# Execute a aplicação
+$ ng server
+
+
+```
+
+
+
+## 🛠 Tecnologias
+
+As seguintes tecnologias foram usadas na construção do projeto:
+
+-   **[Angular 14](https://angular.io)** 
+-   **[Bootstrap 5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/)** 
+-   **[ECMA Script 6](https://www.javascript.com/)**
+---
 
 ## 🦸🏻‍♂️ Autor
 

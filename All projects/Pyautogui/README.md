@@ -6,10 +6,10 @@
 
 A tabela a seguir cobre de forma abrangente todo o conteúdo que foi aprendido sobre o tópico "PYAUTOGUI":
 
-| # | Descrição | Projeto | Status | 
-| :---: | :---: | :---: | :---: | 
-| 1 | <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data" target="_blank">Zerando o jogo Dogeminer</a> | <a href="#">Visualizar</a> | :white_check_mark: |
-| 2 | <a href="https://portswigger.net/web-security/sql-injection/lab-login-bypass" target="_blank">#</a> | <a href="#">Visualizar</a> | :white_check_mark: |
+| # | Descrição | Download | Projeto | Status | 
+| :---: | :---: | :---: | :---: | :---: | 
+| 1 | <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data" target="_blank">Zerando o jogo Dogeminer</a> | <a href="#">Baixar</a> | <a href="#">Visualizar</a> | :white_check_mark: |
+| 2 | <a href="https://portswigger.net/web-security/sql-injection/lab-login-bypass" target="_blank">#</a> | <a href="#">Baixar</a> | <a href="#">Visualizar</a> | :white_check_mark: |
 
 ---
 

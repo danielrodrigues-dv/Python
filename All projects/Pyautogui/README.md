@@ -8,8 +8,8 @@ A tabela a seguir cobre de forma abrangente todo o conteúdo que foi aprendido s
 
 | # | Descrição | Projeto | Status | 
 | :---: | :---: | :---: | :---: | 
-| 1 | <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data" target="_blank">Zerando o jogo Dogeminer</a> | <a href="https://github.com/danielrodrigues-dv/Automation-Dogeminer/tree/main">Visualizar</a> | :white_check_mark: |
-| 2 | <a href="https://portswigger.net/web-security/sql-injection/lab-login-bypass" target="_blank">Automatização de transferência de arquivos simples</a> | <a href="https://github.com/danielrodrigues-dv/Automation-file">Visualizar</a> | :white_check_mark: |
+| 1 | <a>Zerando o jogo Dogeminer</a> | <a href="https://github.com/danielrodrigues-dv/Automation-Dogeminer/tree/main">Visualizar</a> | :white_check_mark: |
+| 2 | <a>Automatização de transferência de arquivos simples</a> | <a href="https://github.com/danielrodrigues-dv/Automation-file">Visualizar</a> | :white_check_mark: |
 
 ---
 
